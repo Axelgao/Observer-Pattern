@@ -1,0 +1,12 @@
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\bin\Debug\T6Observer.exe.config
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\obj\Debug\T6Observer.csprojResolveAssemblyReference.cache
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\obj\Debug\T6Observer.CurrentConditionsDisplay.resources
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\obj\Debug\T6Observer.Properties.Resources.resources
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\obj\Debug\T6Observer.WeatherData.resources
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\obj\Debug\T6Observer.csproj.GenerateResource.Cache
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\bin\Debug\T6Observer.exe
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\bin\Debug\T6Observer.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\obj\Debug\T6Observer.exe
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\obj\Debug\T6Observer.pdb
+C:\Users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\obj\Debug\T6Observer.ForecastDisplay.resources
+C:\Users\gaosh\onedrive\documents\visual studio 2015\Projects\T6Observer\T6Observer\obj\Debug\T6Observer.StatisticsDisplay.resources
